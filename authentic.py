@@ -1,4 +1,12 @@
 import hashlib
+"""
+If you cannot at first tell what this class is doing,
+You've found the first hint of its real purpose,
+It's a simple test of both obfuscation and authentication methods,
+Only a small part of this is similar to any real world method 
+That has practical use 
+And the rest of it is for fun
+"""
 class Authentic:
     def __init__(self):
         self.start = 78
